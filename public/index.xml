@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Inizio Lavori</title>
+      <link>/work/inizio_lavori/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/work/inizio_lavori/</guid>
+      <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
+    </item>
+    
+    <item>
       <title>Lorem Ipsum Dolor</title>
       <link>/timeline/lorem_ipsum_dolor/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/timeline/lorem_ipsum_dolor/</guid>
+      <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum Dolor</title>
+      <link>/work/lorem_ipsum_dolor/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/work/lorem_ipsum_dolor/</guid>
       <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
     </item>
     
@@ -35,6 +53,15 @@
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/timeline/amet_mauris/</guid>
+      <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Amet Mauris</title>
+      <link>/work/amet_mauris/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/work/amet_mauris/</guid>
       <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
     </item>
     

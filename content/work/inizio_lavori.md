@@ -1,14 +1,14 @@
 ---
 author:
   name: "Daniele Moggia"
-date: 2020-11-08
+date: 2020-10-07
 linktitle: Inizio Lavori
 type:
 - post
 - posts
 title: Inizio Lavori
-eventname: Sentieri
-eventlocation: Vernazza
+eventname: Stage
+eventlocation: Porcigattone
 weight: 10
 ---
 
