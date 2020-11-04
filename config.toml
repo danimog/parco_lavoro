@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "it-it"
 title = "Parco Cinque Terre"
-theme = "danitimeline"
+theme = "timeline"
 
 ygmentsCodeFences = true
 PygmentsStyle = "monokai"
