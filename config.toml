@@ -37,7 +37,8 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "danieleMoggia"
+  link = "http://www.danielemoggia.it"
 
 [blackfriday]
   hrefTargetBlank = true
